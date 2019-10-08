@@ -1,7 +1,7 @@
 package flogging
 
 import (
-	"github.com/w862456671/zap_test/flogging/fabenc"
+	"github.com/w862456671/ZapTest/flogging/fabenc"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"

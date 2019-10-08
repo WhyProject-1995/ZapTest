@@ -3,7 +3,7 @@ package httpadmin
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/w862456671/zap_test/flogging"
+	"github.com/w862456671/ZapTest/flogging"
 	"net/http"
 )
 

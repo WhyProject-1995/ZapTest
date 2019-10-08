@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	//	logg "github.com/hyperledger/fabric/common/flogging"
-	"github.com/w862456671/zap_test/flogging"
-	"github.com/w862456671/zap_test/flogging/httpadmin"
+	"github.com/w862456671/ZapTest/flogging"
+	"github.com/w862456671/ZapTest/flogging/httpadmin"
 	"net/http"
 	"time"
 )
